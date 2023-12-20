@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+font-size: 25px;
+font-weight: 550;
+
+
+body background: rgba(206, 253, 136, 0.377);
+menu background: #5a700a;
+dropdown ul background: #be85d8;
+ul li:hover : #272B3F;
+ul li a:hover :  red;
